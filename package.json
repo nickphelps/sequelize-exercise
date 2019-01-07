@@ -1,0 +1,16 @@
+{
+  "name": "album-seq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.7.1",
+    "prompt-promise": "^1.0.3",
+    "sequelize": "^4.42.0"
+  }
+}
